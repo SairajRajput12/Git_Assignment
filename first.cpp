@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
      // enter the project name 
-     cout << "Changes done by sairaj" << endl; 
+     cout << "another developer was making changes on this function" << endl; 
   return 0;
 }
