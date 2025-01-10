@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
      // enter the project name 
-     cout << "Changes made by sairaj !" << endl; 
+     cout << "Changes done by sairaj" << endl; 
   return 0;
 }

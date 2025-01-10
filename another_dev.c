@@ -1,6 +1,6 @@
 #include<stdio.h> 
 
 int main(){
-    printf("This change  done by sairaj to demonstrate the stash command !"); 
+    printf("Changes done by another developer !"); 
     return 0; 
 }
