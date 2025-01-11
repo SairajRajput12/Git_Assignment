@@ -1,6 +1,6 @@
 #include<stdio.h> 
 
 int main(){
-    printf("Changes done by another developer !"); 
+    printf("currently another developer was working on this file and he applies stash !"); 
     return 0; 
 }
